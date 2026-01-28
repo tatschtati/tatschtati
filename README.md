@@ -1,16 +1,36 @@
-## Hi there 👋
+#  Oi, eu sou a Tati!
 
-<!--
-**tatschtati/tatschtati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou *QA em formação*, em transição da educação para tecnologia.  
+Foco em *Qualidade de Software*, com prática em testes manuais e APIs.
 
-Here are some ideas to get you started:
+Comunicativa, organizada e com olhar crítico para qualidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About me
+
+QA in training, transitioning from education to tech.  
+Focused on **Software Quality Assurance** and continuous learning.
+
+
+## Tech & Tools
+
+- Manual Testing  
+- API Testing (Postman)  
+- Jira  
+- Git & GitHub  
+- Basic SQL  
+- Scrum
+
+
+## Goal
+
+Looking for my first opportunity as a **Junior QA Analyst**.
+
+
+## Contact
+
+- LinkedIn: *https://www.linkedin.com/in/tatiane-indai%C3%A1-de-arrial-tatsch-44aaa210a/*  
+- Email: *tatidearrialtatsch@gmail.com*
+
+
+
